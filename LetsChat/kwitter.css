@@ -1,0 +1,19 @@
+.bg1{
+    background: linear-gradient(red, blue);
+}
+.header
+{
+	color: green;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.lcclass{
+    background-color: lightblue;
+    width: 50%;
+    height: 65%;
+    margin-top: 100px;
+}
+.header1{
+    color: green;font-family: 'Yeon Sung';font-size: 25px;letter-spacing: 2.5px;margin-top: 80px;
+}
+.loginimage{
+    margin-top: 100px;
+}
